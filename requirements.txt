@@ -1,0 +1,11 @@
+openai
+anthropic
+whisper
+transformers
+torch
+torchaudio
+langchain
+langgraph
+langdetect
+pydantic
+azure-cognitiveservices-speech
